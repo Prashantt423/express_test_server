@@ -2,6 +2,9 @@
 
 This server is built with Node.js and the Express framework, using MongoDB as the database. It provides an API for managing users information.
 
+### Live Link
+Access the api from `https://express-api-bpas.onrender.com`
+
 ## Getting Started
 
 ### Installation
